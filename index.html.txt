@@ -1,0 +1,74 @@
+ <footer>
+
+                <div class="text-center text-white">
+                    <div class="container pt-4">
+                        <!-- Section: Social media -->
+
+                    
+                        <section class="mb-4">
+                          <!-- Facebook -->
+                          <a
+                            class="bouton-yann btn btn-link btn-floating btn-lg text-light m-1"
+                            href="#!"
+                            role="button"
+                            data-te-ripple-duration="default"
+                            ><i class="fab fa-facebook-f"></i
+                          ></a>
+                    
+                          <!-- Twitter -->
+                          <a
+                            class="bouton-yann btn btn-link btn-floating btn-lg m-1 text-light" href="#" role="button">
+                            <i class="fab fa-twitter"></i>
+                          </a>
+                    
+                          <!-- Google -->
+                          <a
+                            class="bouton-yann btn btn-link btn-floating btn-lg text-light m-1" href="#" role="button">
+                            <i class="fab fa-google"></i>
+                          </a>
+                    
+                          <!-- Instagram -->
+                          <a
+                            class="bouton-yann btn btn-link btn-floating btn-lg text-light m-1"
+                            href="#"
+                            role="button"
+                            data-mdb-ripple-color="dark"
+                            ><i class="fab fa-instagram"></i
+                          ></a>
+                    
+                          <!-- Linkedin -->
+                          <a
+                            class="bouton-yann btn btn-link btn-floating btn-lg text-light m-1"
+                            href="#"
+                            role="button"
+                            data-mdb-ripple-color="dark"
+                            ><i class="fab fa-linkedin"></i
+                          ></a>
+
+                          <!-- Github -->
+                          <a
+                            class="bouton-yann btn btn-link btn-floating btn-lg text-light m-1"
+                            href="#"
+                            role="button"
+                            data-mdb-ripple-init=""
+                            ><i class="fab fa-github"></i
+                          ></a>
+                        </section>
+                        <!-- Section: Social media -->
+                      </div>
+
+
+                      <!-- Grid container -->
+                    
+                      <!-- Copyright -->
+                      <div class="text-center text-light p-3">
+                        © 2024 Copyright:
+                        <a class="text-light text-decoration-none" href="https://thehackingproject.org/">Daarwy-Project // About progressing together</a>
+                      </div>
+                      <!-- Copyright -->
+                    </div>
+                      
+                    </div>
+
+            </div>
+        </footer>

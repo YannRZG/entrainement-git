@@ -1,0 +1,19 @@
+.bouton-yann{
+    font-size: x-large;
+    transition: 1s;
+}
+
+.bouton-yann:hover{
+    /* font-size:xx-large; */
+    scale: 1.5;
+    transition: 0.5s;
+
+    
+
+    
+}
+.bouton-yann:active{
+    scale: 0.5;
+    transition: 0.5s;
+
+}
